@@ -21,9 +21,6 @@ public class hesapla {
         double answer=(mat+fizik+kimya+tarih+muzik+turkce)/6;
         System.out.println("Not Ortalamaniz: "+answer);
 
-        // boolean ile geçme kalma olaylaını kontrol edemedim
-        //  onun yerine if else kullandım.
-
         String PassedOrFail=answer>60 ? "Gecti":"kaldı";
         System.out.println(PassedOrFail);
 

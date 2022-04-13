@@ -1,23 +1,6 @@
 import java.util.Scanner;
 public class alan {
     public static void main(String[] args) {
-        /*
-        HİPOTENÜS BULMA
-
-        int kenar1,kenar2;
-        double Hipo,A2B2;
-        Scanner input = new Scanner(System.in);
-        System.out.print("1. kenarın uzunluğu: ");
-        kenar1= input.nextInt();
-
-        System.out.print("2. kenarın uzunluğu: ");
-        kenar2= input.nextInt();
-
-        A2B2=((kenar1*kenar1)+(kenar2*kenar2));
-        Hipo=Math.sqrt(A2B2);
-        System.out.println("Hipotenüs: "+Hipo);
-         */
-        // ÜÇGENİN ALANINI BULMA
         int a,b,c;
         double alan,u;
 
